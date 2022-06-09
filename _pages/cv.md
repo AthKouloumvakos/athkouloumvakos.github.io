@@ -4,7 +4,7 @@ permalink: /cv/
 author_profile: true
 
 toc: true
-toc_label: "Project list"
+toc_label: "Curriculum Vitae"
 toc_sticky: true
 toc_icon: "list"  # corresponding Font Awesome icon name (without fa prefix)
 ---
@@ -20,7 +20,7 @@ _Supervisor_: A. Nindos, Associate Professor
 National and Kapodistrian University of Athens, Greece \
 _Specialization_: “Astrophysics, Astronomy & Mechanics” \
 _Thesis_: “Study of coronal Shock Waves evolution from combined recordings of ARTEMIS-IV radiospectograph and observations of STEREO mission.” \
-_Supervisor_: P. Preka, Assistant Professor 
+_Supervisor_: P. Preka, Assistant Professor
 
 > **Bachelor in Physics**  (Sep. 2004 - March 2010, Patra, Greece) \
 University of Patras, Greece \
@@ -31,7 +31,8 @@ Supervisors: X. Moussas, Emeritus Professor and V. Zafeiropoulos, Emeritus Profe
 ## Research Experience
 
 > **Post Doctoral Researcher** (March 2022 - now) \
-The Johns Hopkins University Applied Physics Laboratory, Maryland, USA
+The Johns Hopkins University Applied Physics Laboratory, Maryland, USA \
+Scientist for the Suprathermal Ion Spectrograph (SIS) sensor on Solar Orbiter.
 
 > **Post Doctoral Researcher** (Feb. 2018 - Feb. 2022) \
 Institut de Recherche en Astrophysique et Planétologie, Toulouse, France \
@@ -69,7 +70,10 @@ Advisor: A. Nindos, Associate Professor, University of Ioannina.
 
 > **Member** of the “Modelling and Data Analysis Working Group ([MADAWG](http://storms-service.irap.omp.eu/projects/madawg))” for the Solar Orbiter (ESA/NASA) mission and the “Parker Solar Probe Theory Group” for the Parker Solar Probe (NASA) mission.
 
-> **Peer-Reviewer** for the “Astrophysical Journal”, the “Solar Physics”, and “Astronomy and Astrophysics” Journals.
+> **Peer-Reviewe for Journals**
+- The Astrophysical Journal ([ApJ](https://iopscience.iop.org/journal/0004-637X))
+- Astronomy and Astrophysics ([A&A](https://www.aanda.org))
+- Solar Physics
 
 > **Producer** of [“PyThea”](https://github.com/AthKouloumvakos/PyThea) an open-source software package to perform coronal mass ejection (CME) and shock wave 3D reconstruction using multi-viewpoint remote-sensing observations.
 
@@ -87,5 +91,3 @@ Advisor: A. Nindos, Associate Professor, University of Ioannina.
  3. “The Antikythera Mechanism exhibition”, Patras, April 2009.
 
 > **Member of the governing board** (2005-2009) of the Astronomical Association of Patras “Orion”.
-
-

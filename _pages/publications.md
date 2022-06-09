@@ -4,35 +4,36 @@ permalink: /publications/
 author_profile: true
 
 toc: true
-toc_label: "Project list"
+toc_label: "Publication list"
 toc_sticky: true
 toc_icon: "list"  # corresponding Font Awesome icon name (without fa prefix)
 
 ---
 
-{: .notice--success} 
+{: .notice--success}
 **Overview:** \
-Total number of publications in refereed journals: 36 \
+Total number of publications in refereed journals: 38 \
  -- As a first author: 8 \
- -- Among the first five authors: 23 \
+ -- Among the first five authors: 24 \
+H-Index: 17 / Total Citations: 715 \
 Other sources: [![](https://orcid.org/assets/vectors/orcid.logo.icon.svg){:height="20px" width="20px"}](https://orcid.org/0000-0001-6589-4509)
 
-## In refereed Journals
+## Publications in Refereed Journals
 
 ### 2022
 
-> **Kouloumvakos A.**, Kwon, R.Y., Rodríguez-García, L., et al.: 2021, ``The first widespread solar energetic particle event of solar cycle 25 on 2020 November 29: Shock wave properties and the wide distribution of SEPs'', [Astronomy and Astrophysics](https://www.aanda.org/articles/aa/pdf/forth/aa42515-21.pdf).
+> Papaioannou A., **Kouloumvakos A.**, Mishev A., Vainio R., Usoskin I., Herbst K., Rouillard A. P., et al., 2022, ``The first ground-level enhancement of solar cycle 25 on 28 October 2021'' [Astronomy and Astrophysics, 660, L5](https://www.aanda.org/articles/aa/pdf/2022/04/aa42855-21.pdf).
 
-> Papaioannou A., **Kouloumvakos A.**, Mishev A., Vainio R., Usoskin I., Herbst K., Rouillard A. P., et al., 2022, [Astronomy and Astrophysics](https://ui.adsabs.harvard.edu/link_gateway/2022arXiv220207927P/EPRINT_PDF).
+> **Kouloumvakos A.**, Kwon, R.Y., Rodríguez-García, L., et al.: 2021, ``The first widespread solar energetic particle event of solar cycle 25 on 2020 November 29: Shock wave properties and the wide distribution of SEPs'', [Astronomy and Astrophysics, 660, A84](https://www.aanda.org/articles/aa/pdf/2022/04/aa42515-21.pdf).
 
-> Dresing N., **Kouloumvakos A.**, Vainio R., Rouillard A., 2022, ``On the Role of Coronal Shocks for Accelerating Solar Energetic Electrons'', [The Astrophysical Journal Letters, 925, L21](https://ui.adsabs.harvard.edu/link_gateway/2022ApJ...925L..21D/PUB_PDF).
+> Reville V., Fargette N., Rouillard A.~P., Lavraud B., Velli M., Strugarek A., Parenti S., ... **Kouloumvakos, A.**, et al., 2021, ``Flux ropes and dynamics of the heliospheric current sheet'', [Astronomy and Astrophysics](https://www.aanda.org/articles/aa/pdf/2022/03/aa42381-21.pdf).
+
+> Dresing N., **Kouloumvakos A.**, Vainio R., Rouillard A., 2022, ``On the Role of Coronal Shocks for Accelerating Solar Energetic Electrons'', [The Astrophysical Journal Letters, 925, L21](https://iopscience.iop.org/article/10.3847/2041-8213/ac4ca7).
 
 > Badman S. T., Brooks D. H., Poirier N., Warren H. P., Petrie G., Rouillard A. P., Arge C. N., ... **Kouloumvakos A.**, et al., 2022, ``Constraining Global Coronal Models with Multiple Independent Observables'', [Astronomy and Astrophysics](https://ui.adsabs.harvard.edu/link_gateway/2022arXiv220111818B/EPRINT_PDF).
 
 ### 2021
 
-> Reville V., Fargette N., Rouillard A.~P., Lavraud B., Velli M., Strugarek A., Parenti S., ... **Kouloumvakos, A.**, et al., 2021, ``Flux ropes and dynamics of the heliospheric current sheet'', [Astronomy and Astrophysics](https://arxiv.org/pdf/2112.07445.pdf).
- 
 > Kollhoff, A., **Kouloumvakos, A.**, Lario, D., et al: 2021, ``The first widespread solar energetic particle event observed by Solar Orbiter on 2020 November 29'', [Astronomy and Astrophysics, 656, A20](https://www.aanda.org/articles/aa/pdf/2021/12/aa40937-21.pdf).
 
 > Jebaraj, I. C., **Kouloumvakos, A.**, Magdalenic, J., et al.: 2021, ``Generation of interplanetary type II radio emission'', [Astronomy and Astrophysics, 654, A64](https://www.aanda.org/articles/aa/pdf/2021/10/aa41695-21.pdf).
@@ -57,7 +58,7 @@ Other sources: [![](https://orcid.org/assets/vectors/orcid.logo.icon.svg){:heigh
 
 > Griton L., Pinto R.F., Poirier N., **Kouloumvakos, A.**, Lavarra M., Rouillard A.P.: 2020, ``Coronal Bright Points as Possible Sources of Density Variations in the Solar Corona '', [The Astrophysical Journal, 893, 64G](https://iopscience.iop.org/article/10.3847/1538-4357/ab7b76).
 
-> **Kouloumvakos, A.**, Rouillard, A.P., Share G.H., Plotnikov I., Murphy R., Papaioannou A., and Wu Y.: 2020, \textit{``Evidence for a Coronal Shock Wave Origin for Relativistic Protons Producing Solar Gamma-Rays and Observed by Neutron Monitors at Earth''}, \href{https://iopscience.iop.org/article/10.3847/1538-4357/ab8227}{The Astrophysical Journal, 893, 76K}.
+> **Kouloumvakos, A.**, Rouillard, A.P., Share G.H., Plotnikov I., Murphy R., Papaioannou A., and Wu Y.: 2020, ``Evidence for a Coronal Shock Wave Origin for Relativistic Protons Producing Solar Gamma-Rays and Observed by Neutron Monitors at Earth'', \href{https://iopscience.iop.org/article/10.3847/1538-4357/ab8227}{The Astrophysical Journal, 893, 76K}.
 
 > Poirier, N., **Kouloumvakos**, A., Rouillard, A.P., Pinto, R.F., Vourlidas, A., Stenborg, G., Valette, E., Howard, R.A., et al.: 2020, ``Detailed imaging of coronal rays with Parker Solar Probe'', [The Astrophysical Journal, 246, 60P](https://iopscience.iop.org/article/10.3847/1538-4365/ab6324).
 
@@ -67,7 +68,7 @@ Other sources: [![](https://orcid.org/assets/vectors/orcid.logo.icon.svg){:heigh
 
 > Hess, P., Rouillard, A., **Kouloumvakos, A.**, Liewer, P.C., Zhang, J., Dhakal, S., Stenborg, G., Colaninno, R.C., and Howard, R.A.: 2020, ``WISPR Imaging of a Pristine CME'', [The Astrophysical Journal, 246, 25H](https://iopscience.iop.org/article/10.3847/1538-4365/ab4ff0).
 
-> Giacalone, J., Mitchell, D.G., Allen, R.C., Hill, M.E., McNutt Jr., R.L., Szalay, J.R., Desai, M.I., Rouillard, A.P., **Kouloumvakos, A.**, et al.: 2020, ``Solar Energetic Particles Produced by a Slow Coronal Mass Ejection at $\sim$0.25AU'', [The Astrophysical Journal, 246, 29G](https://iopscience.iop.org/article/10.3847/1538-4365/ab5221).
+> Giacalone, J., Mitchell, D.G., Allen, R.C., Hill, M.E., McNutt Jr., R.L., Szalay, J.R., Desai, M.I., Rouillard, A.P., **Kouloumvakos, A.**, et al.: 2020, ``Solar Energetic Particles Produced by a Slow Coronal Mass Ejection at ~0.25AU'', [The Astrophysical Journal, 246, 29G](https://iopscience.iop.org/article/10.3847/1538-4365/ab5221).
 
 > Korreck, K.E., Szabo, A., Chinchilla, T.N., Lavraud, B., Luhman, J., Case, A.W., Niembro, T.,  Higginson, A., Alzate, N., ... **Kouloumvakos, A.**, et al.: 2020, ``Early Evolution and Propagation of a Streamer Blowout Coronal Mass Ejections within 54.7 solar radii of the Sun Observed by Parker Solar Probe'', [The Astrophysical Journal, 246, 69K](https://iopscience.iop.org/article/10.3847/1538-4365/ab6ff9).
 
