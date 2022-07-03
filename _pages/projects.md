@@ -10,6 +10,11 @@ toc_icon: "list"  # corresponding Font Awesome icon name (without fa prefix)
 
 ---
 
+## ShockSEE
+
+{: .text-justify}
+ShockSEE is a project funded by the Research Academy of Findland that aims to investigate the role of shocks for solar energetic electron events with the new-generation heliospheric fleet. Widespread electron events constitute the first strong indication of the presence of electron acceleration by a wide and CME-driven shock. However, as spacecraft observations are determined by a mixture of different possible processes such as a contribution by a flare, effects of interplanetary transport, and shock acceleration, these contributions have to be quantified. SHOCKSEE aims to a comprehensive analysis of spacecraft observations, complemented by various state-of-the-art models to investigate different physical effects and address several top-level science questions.
+
 ## SERPENTINE
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/SERPENTINE_logo_new_small.png){: .align-left} 
