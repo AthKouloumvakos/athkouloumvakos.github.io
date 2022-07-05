@@ -15,6 +15,12 @@ toc_icon: "list"  # corresponding Font Awesome icon name (without fa prefix)
 Total number of publications in refereed journals: 38 \
  -- As a first author: 8 \
  -- Among the first five authors: 24 \
+ \
+**Highlights:** \
+ -- Top cited as 1st author: Kouloumvakos et al. (2019), [The Astrophysical Journal, 876, 80](https://iopscience.iop.org/article/10.3847/1538-4357/ab15d7) \
+ -- Top cited: Papaioannou et al. (2016), [Journal of Space Weather and Space Climate, 6, A42](https://www.swsc-journal.org/articles/swsc/abs/2016/01/swsc150076/swsc150076.html) \
+ -- Top impact: Howard et al. (2019), [Nature 576, 232–236](https://www.nature.com/articles/s41586-019-1807-x) \
+ \
 H-Index: 17 / Total Citations: 715 \
 Other sources: [![](https://orcid.org/assets/vectors/orcid.logo.icon.svg){:height="20px" width="20px"}](https://orcid.org/0000-0001-6589-4509)
 
@@ -58,7 +64,7 @@ Other sources: [![](https://orcid.org/assets/vectors/orcid.logo.icon.svg){:heigh
 
 > Griton L., Pinto R.F., Poirier N., **Kouloumvakos, A.**, Lavarra M., Rouillard A.P.: 2020, ``Coronal Bright Points as Possible Sources of Density Variations in the Solar Corona '', [The Astrophysical Journal, 893, 64G](https://iopscience.iop.org/article/10.3847/1538-4357/ab7b76).
 
-> **Kouloumvakos, A.**, Rouillard, A.P., Share G.H., Plotnikov I., Murphy R., Papaioannou A., and Wu Y.: 2020, ``Evidence for a Coronal Shock Wave Origin for Relativistic Protons Producing Solar Gamma-Rays and Observed by Neutron Monitors at Earth'', \href{https://iopscience.iop.org/article/10.3847/1538-4357/ab8227}{The Astrophysical Journal, 893, 76K}.
+> **Kouloumvakos, A.**, Rouillard, A.P., Share G.H., Plotnikov I., Murphy R., Papaioannou A., and Wu Y.: 2020, ``Evidence for a Coronal Shock Wave Origin for Relativistic Protons Producing Solar Gamma-Rays and Observed by Neutron Monitors at Earth'', [The Astrophysical Journal, 893, 76K](https://iopscience.iop.org/article/10.3847/1538-4357/ab8227).
 
 > Poirier, N., **Kouloumvakos**, A., Rouillard, A.P., Pinto, R.F., Vourlidas, A., Stenborg, G., Valette, E., Howard, R.A., et al.: 2020, ``Detailed imaging of coronal rays with Parker Solar Probe'', [The Astrophysical Journal, 246, 60P](https://iopscience.iop.org/article/10.3847/1538-4365/ab6324).
 
