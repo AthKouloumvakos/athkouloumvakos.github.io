@@ -7,3 +7,6 @@ main:
     url: /research/
   - title: "Projects"
     url: /projects/
+  - title: "Tools"
+    url: /tools/
+

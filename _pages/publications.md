@@ -12,23 +12,25 @@ toc_icon: "list"  # corresponding Font Awesome icon name (without fa prefix)
 
 {: .notice--success}
 **Overview:** \
-Total number of publications in refereed journals: 38 \
- -- As a first author: 8 \
- -- Among the first five authors: 24 \
+Total number of publications in refereed journals: 39 \
+ -- As a first author: 9 \
+ -- Among the first five authors: 25 \
  \
 **Highlights:** \
  -- Top cited as 1st author: Kouloumvakos et al. (2019), [The Astrophysical Journal, 876, 80](https://iopscience.iop.org/article/10.3847/1538-4357/ab15d7) \
  -- Top cited: Papaioannou et al. (2016), [JSWSC, 6, A42](https://www.swsc-journal.org/articles/swsc/abs/2016/01/swsc150076/swsc150076.html) \
  -- Top impact: Howard et al. (2019), [Nature 576, 232–236](https://www.nature.com/articles/s41586-019-1807-x) \
  \
-H-Index: 17 / Total Citations: 726 \
+H-Index: 17 / Total Citations: 759 \
 Other sources: [![](https://orcid.org/assets/vectors/orcid.logo.icon.svg){:height="20px" width="20px"}](https://orcid.org/0000-0001-6589-4509)
 
 ## Publications in Refereed Journals
 
 ### 2022
 
-> Papaioannou A., **Kouloumvakos A.**, Mishev A., Vainio R., Usoskin I., Herbst K., Rouillard A. P., et al., 2022, ``The first ground-level enhancement of solar cycle 25 on 28 October 2021'' [Astronomy and Astrophysics, 660, L5](https://www.aanda.org/articles/aa/pdf/2022/04/aa42855-21.pdf).
+> **Kouloumvakos A.**, Rodríguez-García L., Gieseler J., Price D. J., Vourlidas A., Vainio R., 2022, ``PyThea: An open-source software package to perform 3D reconstruction of coronal mass ejections and shock waves'' Part of the Research Topic: Snakes on a Spaceship—An Overview of Python in Space Physics [Front. Astron. Space Sci., Sec. Space Physics](https://www.frontiersin.org/articles/10.3389/fspas.2022.974137/full).
+
+> Papaioannou A., **Kouloumvakos A.**, Mishev A., Vainio R., Usoskin I., Herbst K., Rouillard A. P., et al., 2022, ``The first ground-level enhancement of solar cycle 25 on 28 October 2021'' [Astronomy and Astrophysics (Letter to the Editor), 660, L5](https://www.aanda.org/articles/aa/pdf/2022/04/aa42855-21.pdf).
 
 > **Kouloumvakos A.**, Kwon, R.Y., Rodríguez-García, L., et al.: 2021, ``The first widespread solar energetic particle event of solar cycle 25 on 2020 November 29: Shock wave properties and the wide distribution of SEPs'', [Astronomy and Astrophysics, 660, A84](https://www.aanda.org/articles/aa/pdf/2022/04/aa42515-21.pdf).
 
