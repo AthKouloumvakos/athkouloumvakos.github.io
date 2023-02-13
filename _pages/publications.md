@@ -12,8 +12,8 @@ toc_icon: "list"  # corresponding Font Awesome icon name (without fa prefix)
 
 {: .notice--success}
 **Overview:** \
-Total number of publications in refereed journals: 39 \
- -- As a first author: 9 \
+Total number of publications in refereed journals: 43 \
+ -- As a first author: 10 \
  -- Among the first five authors: 25 \
  \
 **Highlights:** \
@@ -21,14 +21,29 @@ Total number of publications in refereed journals: 39 \
  -- Top cited: Papaioannou et al. (2016), [JSWSC, 6, A42](https://www.swsc-journal.org/articles/swsc/abs/2016/01/swsc150076/swsc150076.html) \
  -- Top impact: Howard et al. (2019), [Nature 576, 232–236](https://www.nature.com/articles/s41586-019-1807-x) \
  \
-H-Index: 17 / Total Citations: 759 \
-Other sources: [![](https://orcid.org/assets/vectors/orcid.logo.icon.svg){:height="20px" width="20px"}](https://orcid.org/0000-0001-6589-4509)
+H-Index: 19 / Total Citations: 970 
+ \
+Other sources: [![NASA/ADS](https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg){:height="20px" width="20px"}](https://ui.adsabs.harvard.edu/public-libraries/40cJM25eRKu15EN-KcyaNw) [![ORCID](https://orcid.org/assets/vectors/orcid.logo.icon.svg){:height="20px" width="20px"}](https://orcid.org/0000-0001-6589-4509)
 
 ## Publications in Refereed Journals
 
+### 2023
+
+> Gieseler Jan, Dresing Nina, Palmroos Christian, Freiherr von Forstner Johan L., Price Daniel J., Vainio Rami, **Kouloumvakos A.**, et al., 2023, ``Solar-MACH: An open-source tool to analyze solar magnetic connection configurations'' [Front. Astron. Space Sci., Sec. Space Physics](https://www.frontiersin.org/articles/10.3389/fspas.2022.1058810/full).
+
+> Rodríguez-García L., Gómez-Herrero R., Dresing N., Lario D., Zouganelis I., Balmaceda L. A., **Kouloumvakos A.**, et al., 2023, ``Solar energetic electron events measured by MESSENGER and Solar Orbiter. Peak intensity and energy spectrum radial dependences: Statistical analysis'' [Astronomy and Astrophysics](https://www.aanda.org/articles/aa/pdf/2023/02/aa44553-22.pdf).
+
+> Mason G. M., Nitta N. V., Bučík R., Gómez-Herrero R., Krupar V., Krucker S., Ho G. C., Allen R. C.,  **Kouloumvakos A.**, et al., 2023, ``The 18-19 March 2022 series of 3He-rich events observed by Solar Orbiter at 0.36 au compared with EUV, X-ray, and radio observations'' [Astronomy and Astrophysics](https://www.aanda.org/articles/aa/pdf/2023/01/aa45576-22.pdf).
+
+> **Kouloumvakos A.**, Vainio R., Gieseler J., Price D. J., 2023, ``The effect of shock wave properties on the release timings of solar energetic particles'' [Astronomy and Astrophysics](https://www.aanda.org/articles/aa/pdf/2023/01/aa44363-22.pdf).
+
 ### 2022
 
+> Trotta D., Vuorinen L., Hietala H., Horbury T., Dresing N., Gieseler J., **Kouloumvakos A.**, et al., 2022, ``Single-spacecraft techniques for shock parameters estimation: A systematic approach'', [Front. Astron. Space Sci., Sec. Space Physics](https://www.frontiersin.org/articles/10.3389/fspas.2022.1005672/full).
+
 > **Kouloumvakos A.**, Rodríguez-García L., Gieseler J., Price D. J., Vourlidas A., Vainio R., 2022, ``PyThea: An open-source software package to perform 3D reconstruction of coronal mass ejections and shock waves'' Part of the Research Topic: Snakes on a Spaceship—An Overview of Python in Space Physics [Front. Astron. Space Sci., Sec. Space Physics](https://www.frontiersin.org/articles/10.3389/fspas.2022.974137/full).
+
+> Badman S. T., Brooks D. H., Poirier N., Warren H. P., Petrie G., Rouillard A. P., Arge C. N., ... **Kouloumvakos A.**, et al., 2022, ``Constraining Global Coronal Models with Multiple Independent Observables'', [Astronomy and Astrophysics](https://iopscience.iop.org/article/10.3847/1538-4357/ac6610/pdf).
 
 > Papaioannou A., **Kouloumvakos A.**, Mishev A., Vainio R., Usoskin I., Herbst K., Rouillard A. P., et al., 2022, ``The first ground-level enhancement of solar cycle 25 on 28 October 2021'' [Astronomy and Astrophysics (Letter to the Editor), 660, L5](https://www.aanda.org/articles/aa/pdf/2022/04/aa42855-21.pdf).
 
@@ -37,8 +52,6 @@ Other sources: [![](https://orcid.org/assets/vectors/orcid.logo.icon.svg){:heigh
 > Reville V., Fargette N., Rouillard A.~P., Lavraud B., Velli M., Strugarek A., Parenti S., ... **Kouloumvakos, A.**, et al., 2021, ``Flux ropes and dynamics of the heliospheric current sheet'', [Astronomy and Astrophysics](https://www.aanda.org/articles/aa/pdf/2022/03/aa42381-21.pdf).
 
 > Dresing N., **Kouloumvakos A.**, Vainio R., Rouillard A., 2022, ``On the Role of Coronal Shocks for Accelerating Solar Energetic Electrons'', [The Astrophysical Journal Letters, 925, L21](https://iopscience.iop.org/article/10.3847/2041-8213/ac4ca7).
-
-> Badman S. T., Brooks D. H., Poirier N., Warren H. P., Petrie G., Rouillard A. P., Arge C. N., ... **Kouloumvakos A.**, et al., 2022, ``Constraining Global Coronal Models with Multiple Independent Observables'', [Astronomy and Astrophysics](https://ui.adsabs.harvard.edu/link_gateway/2022arXiv220111818B/EPRINT_PDF).
 
 ### 2021
 
