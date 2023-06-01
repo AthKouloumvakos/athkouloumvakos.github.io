@@ -12,22 +12,30 @@ toc_icon: "list"  # corresponding Font Awesome icon name (without fa prefix)
 
 {: .notice--success}
 **Overview:** \
-Total number of publications in refereed journals: 43 \
+Total number of publications in refereed journals: 47 \
  -- As a first author: 10 \
- -- Among the first five authors: 25 \
+ -- Among the first five authors: 28 \
  \
 **Highlights:** \
  -- Top cited as 1st author: Kouloumvakos et al. (2019), [The Astrophysical Journal, 876, 80](https://iopscience.iop.org/article/10.3847/1538-4357/ab15d7) \
  -- Top cited: Papaioannou et al. (2016), [JSWSC, 6, A42](https://www.swsc-journal.org/articles/swsc/abs/2016/01/swsc150076/swsc150076.html) \
  -- Top impact: Howard et al. (2019), [Nature 576, 232–236](https://www.nature.com/articles/s41586-019-1807-x) \
  \
-H-Index: 19 / Total Citations: 970 
+H-Index: 19 / Total Citations: 992 
  \
 Other sources: [![NASA/ADS](https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg){:height="20px" width="20px"}](https://ui.adsabs.harvard.edu/public-libraries/40cJM25eRKu15EN-KcyaNw) [![ORCID](https://orcid.org/assets/vectors/orcid.logo.icon.svg){:height="20px" width="20px"}](https://orcid.org/0000-0001-6589-4509)
+
+![image]({{ site.url }}{{ site.baseurl }}/assets/images/ADS_Citations_Indexes.png)
 
 ## Publications in Refereed Journals
 
 ### 2023
+
+> Mason G. M., Ho G. C., Allen R. C., **Kouloumvakos A.**, Wimmer-Schweingruber R. F., Rodriguez-Pacheco J, 2023, ``Quiet-time suprathermal ions in the inner heliosphere during the rising phase of solar cycle 25'' [Astronomy & Astrophysics](https://www.aanda.org/articles/aa/full_html/2023/05/aa45978-23/aa45978-23.html).
+
+> Jarry Manon, Rouillard Alexis P., Plotnikov Illya, **Kouloumvakos A.**, Warmuth Alexander, 2023, ``Parametric study of the kinematic evolution of coronal mass ejection shock waves and their relation to flaring activity'' [Astronomy & Astrophysics](https://www.aanda.org/articles/aa/pdf/2023/04/aa45480-22.pdf).
+
+> Réville Victor, Poirier Nicolas, **Kouloumvakos A.**, Rouillard Alexis Paul, Ferreira Pinto Rui, Fargette Naïs, Indurain Mikel, Fournon Raphaël, et al., 2023, ``HelioCast: heliospheric forecasting based on white-light observations of the solar corona'' [Journal of Space Weather and Space Climate](https://www.swsc-journal.org/articles/swsc/full_html/2023/01/swsc220066/swsc220066.html).
 
 > Gieseler Jan, Dresing Nina, Palmroos Christian, Freiherr von Forstner Johan L., Price Daniel J., Vainio Rami, **Kouloumvakos A.**, et al., 2023, ``Solar-MACH: An open-source tool to analyze solar magnetic connection configurations'' [Front. Astron. Space Sci., Sec. Space Physics](https://www.frontiersin.org/articles/10.3389/fspas.2022.1058810/full).
 
