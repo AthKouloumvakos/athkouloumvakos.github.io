@@ -30,107 +30,104 @@ Other sources: [![NASA/ADS](https://ui.adsabs.harvard.edu/styles/img/transparent
 ## Publications in Refereed Journals
 
 ### 2023
+> Mason G. M., Ho G. C., Allen R. C., Kouloumvakos A., Wimmer-Schweingruber R. F., et al. "Quiet-time suprathermal ions in the inner heliosphere during the rising phase of solar cycle 25", [Astronomy and Astrophysics (2023)](https://ui.adsabs.harvard.edu/abs/2023A&A...673L..12M). 
 
-> Mason G. M., Ho G. C., Allen R. C., **Kouloumvakos A.**, Wimmer-Schweingruber R. F., Rodriguez-Pacheco J, 2023, ``Quiet-time suprathermal ions in the inner heliosphere during the rising phase of solar cycle 25'' [Astronomy & Astrophysics](https://www.aanda.org/articles/aa/full_html/2023/05/aa45978-23/aa45978-23.html).
+> Jarry M., Rouillard A. P., Plotnikov I., Kouloumvakos A., Warmuth A. "Parametric study of the kinematic evolution of coronal mass ejection shock waves and their relation to flaring activity", [Astronomy and Astrophysics (2023)](https://ui.adsabs.harvard.edu/abs/2023A&A...672A.127J). 
 
-> Jarry Manon, Rouillard Alexis P., Plotnikov Illya, **Kouloumvakos A.**, Warmuth Alexander, 2023, ``Parametric study of the kinematic evolution of coronal mass ejection shock waves and their relation to flaring activity'' [Astronomy & Astrophysics](https://www.aanda.org/articles/aa/pdf/2023/04/aa45480-22.pdf).
+> Réville V., Poirier N., Kouloumvakos A., Rouillard A. P., Ferreira Pinto R., et al. "HelioCast: heliospheric forecasting based on white-light observations of the solar corona", [Journal of Space Weather and Space Climate (2023)](https://ui.adsabs.harvard.edu/abs/2023JSWSC..13...11R). 
 
-> Réville Victor, Poirier Nicolas, **Kouloumvakos A.**, Rouillard Alexis Paul, Ferreira Pinto Rui, Fargette Naïs, Indurain Mikel, Fournon Raphaël, et al., 2023, ``HelioCast: heliospheric forecasting based on white-light observations of the solar corona'' [Journal of Space Weather and Space Climate](https://www.swsc-journal.org/articles/swsc/full_html/2023/01/swsc220066/swsc220066.html).
+> Gieseler J., Dresing N., Palmroos C., Freiherr von Forstner J. L., Price D. J., et al. "Solar-MACH: An open-source tool to analyze solar magnetic connection configurations", [Frontiers in Astronomy and Space Sciences (2023)](https://ui.adsabs.harvard.edu/abs/2023FrASS...958810G). 
 
-> Gieseler Jan, Dresing Nina, Palmroos Christian, Freiherr von Forstner Johan L., Price Daniel J., Vainio Rami, **Kouloumvakos A.**, et al., 2023, ``Solar-MACH: An open-source tool to analyze solar magnetic connection configurations'' [Front. Astron. Space Sci., Sec. Space Physics](https://www.frontiersin.org/articles/10.3389/fspas.2022.1058810/full).
+> Rodríguez-García L., Gómez-Herrero R., Dresing N., Lario D., Zouganelis I., et al. "Solar energetic electron events measured by MESSENGER and Solar Orbiter. Peak intensity and energy spectrum radial dependences: Statistical analysis", [Astronomy and Astrophysics (2023)](https://ui.adsabs.harvard.edu/abs/2023A&A...670A..51R). 
 
-> Rodríguez-García L., Gómez-Herrero R., Dresing N., Lario D., Zouganelis I., Balmaceda L. A., **Kouloumvakos A.**, et al., 2023, ``Solar energetic electron events measured by MESSENGER and Solar Orbiter. Peak intensity and energy spectrum radial dependences: Statistical analysis'' [Astronomy and Astrophysics](https://www.aanda.org/articles/aa/pdf/2023/02/aa44553-22.pdf).
+> Mason G. M., Nitta N. V., Bučík R., Gómez-Herrero R., Krupar V., et al. "The 18-19 March 2022 series of <SUP>3</SUP>He-rich events observed by Solar Orbiter at 0.36 au compared with EUV, X-ray, and radio observations", [Astronomy and Astrophysics (2023)](https://ui.adsabs.harvard.edu/abs/2023A&A...669L..16M). 
 
-> Mason G. M., Nitta N. V., Bučík R., Gómez-Herrero R., Krupar V., Krucker S., Ho G. C., Allen R. C.,  **Kouloumvakos A.**, et al., 2023, ``The 18-19 March 2022 series of 3He-rich events observed by Solar Orbiter at 0.36 au compared with EUV, X-ray, and radio observations'' [Astronomy and Astrophysics](https://www.aanda.org/articles/aa/pdf/2023/01/aa45576-22.pdf).
-
-> **Kouloumvakos A.**, Vainio R., Gieseler J., Price D. J., 2023, ``The effect of shock wave properties on the release timings of solar energetic particles'' [Astronomy and Astrophysics](https://www.aanda.org/articles/aa/pdf/2023/01/aa44363-22.pdf).
+> Kouloumvakos A., Vainio R., Gieseler J., Price D. J. "The effect of shock wave properties on the release timings of solar energetic particles", [Astronomy and Astrophysics (2023)](https://ui.adsabs.harvard.edu/abs/2023A&A...669A..58K). 
 
 ### 2022
 
-> Trotta D., Vuorinen L., Hietala H., Horbury T., Dresing N., Gieseler J., **Kouloumvakos A.**, et al., 2022, ``Single-spacecraft techniques for shock parameters estimation: A systematic approach'', [Front. Astron. Space Sci., Sec. Space Physics](https://www.frontiersin.org/articles/10.3389/fspas.2022.1005672/full).
+> Trotta D., Vuorinen L., Hietala H., Horbury T., Dresing N., et al. "Single-spacecraft techniques for shock parameters estimation: A systematic approach", [Frontiers in Astronomy and Space Sciences (2022)](https://ui.adsabs.harvard.edu/abs/2022FrASS...905672T). 
 
-> **Kouloumvakos A.**, Rodríguez-García L., Gieseler J., Price D. J., Vourlidas A., Vainio R., 2022, ``PyThea: An open-source software package to perform 3D reconstruction of coronal mass ejections and shock waves'' Part of the Research Topic: Snakes on a Spaceship—An Overview of Python in Space Physics [Front. Astron. Space Sci., Sec. Space Physics](https://www.frontiersin.org/articles/10.3389/fspas.2022.974137/full).
+> Kouloumvakos A., Rodríguez-García L., Gieseler J., Price D. J., Vourlidas A., et al. "PyThea: An open-source software package to perform 3D reconstruction of coronal mass ejections and shock waves", [Frontiers in Astronomy and Space Sciences (2022)](https://ui.adsabs.harvard.edu/abs/2022FrASS...9.4137K). 
 
-> Badman S. T., Brooks D. H., Poirier N., Warren H. P., Petrie G., Rouillard A. P., Arge C. N., ... **Kouloumvakos A.**, et al., 2022, ``Constraining Global Coronal Models with Multiple Independent Observables'', [Astronomy and Astrophysics](https://iopscience.iop.org/article/10.3847/1538-4357/ac6610/pdf).
+> Badman S. T., Brooks D. H., Poirier N., Warren H. P., Petrie G., et al. "Constraining Global Coronal Models with Multiple Independent Observables", [The Astrophysical Journal (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJ...932..135B). 
 
-> Papaioannou A., **Kouloumvakos A.**, Mishev A., Vainio R., Usoskin I., Herbst K., Rouillard A. P., et al., 2022, ``The first ground-level enhancement of solar cycle 25 on 28 October 2021'' [Astronomy and Astrophysics (Letter to the Editor), 660, L5](https://www.aanda.org/articles/aa/pdf/2022/04/aa42855-21.pdf).
+> Papaioannou A., Kouloumvakos A., Mishev A., Vainio R., Usoskin I., et al. "The first ground-level enhancement of solar cycle 25 on 28 October 2021", [Astronomy and Astrophysics (2022)](https://ui.adsabs.harvard.edu/abs/2022A&A...660L...5P). 
 
-> **Kouloumvakos A.**, Kwon, R.Y., Rodríguez-García, L., et al.: 2021, ``The first widespread solar energetic particle event of solar cycle 25 on 2020 November 29: Shock wave properties and the wide distribution of SEPs'', [Astronomy and Astrophysics, 660, A84](https://www.aanda.org/articles/aa/pdf/2022/04/aa42515-21.pdf).
+> Kouloumvakos A., Kwon R. Y., Rodríguez-García L., Lario D., Dresing N., et al. "The first widespread solar energetic particle event of solar cycle 25 on 2020 November 29. Shock wave properties and the wide distribution of solar energetic particles", [Astronomy and Astrophysics (2022)](https://ui.adsabs.harvard.edu/abs/2022A&A...660A..84K). 
 
-> Reville V., Fargette N., Rouillard A.~P., Lavraud B., Velli M., Strugarek A., Parenti S., ... **Kouloumvakos, A.**, et al., 2021, ``Flux ropes and dynamics of the heliospheric current sheet'', [Astronomy and Astrophysics](https://www.aanda.org/articles/aa/pdf/2022/03/aa42381-21.pdf).
+> Réville V., Fargette N., Rouillard A. P., Lavraud B., Velli M., et al. "Flux rope and dynamics of the heliospheric current sheet. Study of the Parker Solar Probe and Solar Orbiter conjunction of June 2020", [Astronomy and Astrophysics (2022)](https://ui.adsabs.harvard.edu/abs/2022A&A...659A.110R). 
 
-> Dresing N., **Kouloumvakos A.**, Vainio R., Rouillard A., 2022, ``On the Role of Coronal Shocks for Accelerating Solar Energetic Electrons'', [The Astrophysical Journal Letters, 925, L21](https://iopscience.iop.org/article/10.3847/2041-8213/ac4ca7).
+> Dresing N., Kouloumvakos A., Vainio R., Rouillard A. "On the Role of Coronal Shocks for Accelerating Solar Energetic Electrons", [The Astrophysical Journal (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJ...925L..21D). 
 
 ### 2021
+> Kollhoff A., Kouloumvakos A., Lario D., Dresing N., Gómez-Herrero R., et al. "The first widespread solar energetic particle event observed by Solar Orbiter on 2020 November 29", [Astronomy and Astrophysics (2021)](https://ui.adsabs.harvard.edu/abs/2021A&A...656A..20K). 
 
-> Kollhoff, A., **Kouloumvakos, A.**, Lario, D., et al: 2021, ``The first widespread solar energetic particle event observed by Solar Orbiter on 2020 November 29'', [Astronomy and Astrophysics, 656, A20](https://www.aanda.org/articles/aa/pdf/2021/12/aa40937-21.pdf).
+> Jebaraj I. C., Kouloumvakos A., Magdalenic J., Rouillard A. P., Mann G., et al. "Generation of interplanetary type II radio emission", [Astronomy and Astrophysics (2021)](https://ui.adsabs.harvard.edu/abs/2021A&A...654A..64J). 
 
-> Jebaraj, I. C., **Kouloumvakos, A.**, Magdalenic, J., et al.: 2021, ``Generation of interplanetary type II radio emission'', [Astronomy and Astrophysics, 654, A64](https://www.aanda.org/articles/aa/pdf/2021/10/aa41695-21.pdf).
+> Pinto R. F., Poirier N., Rouillard A. P., Kouloumvakos A., Griton L., et al. "Solar wind rotation rate and shear at coronal hole boundaries. Possible consequences for magnetic field inversions", [Astronomy and Astrophysics (2021)](https://ui.adsabs.harvard.edu/abs/2021A&A...653A..92P). 
 
-> Pinto, R. F., Poirier, N., Rouillard, A. P., **Kouloumvakos, A.**, et al.: 2021, ``Solar wind rotation rate and shear at coronal hole boundaries. Possible consequences for magnetic field inversions'', [Astronomy and Astrophysics, 653, A92](https://www.aanda.org/articles/aa/pdf/2021/09/aa40180-20.pdf).
+> Kouloumvakos A., Rouillard A., Warmuth A., Magdalenic J., Jebaraj I. C., et al. "Coronal Conditions for the Occurrence of Type II Radio Bursts", [The Astrophysical Journal (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...913...99K). 
 
-> **Kouloumvakos, A.**, Rouillard, A., Warmuth, A., et al.: 2021, ``Coronal Conditions for the Occurrence of Type II Radio Bursts'', [The Astrophysical Journal, 913, 99](https://iopscience.iop.org/article/10.3847/1538-4357/abf435/pdf).
+> Poirier N., Rouillard A. P., Kouloumvakos A., Przybylak A., Fargette N., et al. "Exploiting White-Light Observations to Improve Estimates of Magnetic Connectivity", [Frontiers in Astronomy and Space Sciences (2021)](https://ui.adsabs.harvard.edu/abs/2021FrASS...8...84P). 
 
-> Poirier, N., Rouillard, A. P., **Kouloumvakos, A.**, et al.: 2021, ``Exploiting white-light observations to improve estimates of magnetic connectivity'', [Frontiers in Astronomy and Space Sciences, 8, 84](https://www.frontiersin.org/articles/10.3389/fspas.2021.684734/full).
-
-> Wu, Y., Rouillard, A. P., **Kouloumvakos, A.**, et al.: 2021, ``On the Origin of Hard X-Ray Emissions from the Behind-the-limb Flare on 2014 September 1'', [The Astrophysical Journal, 909, 163](https://iopscience.iop.org/article/10.3847/1538-4357/abdc20/pdf).
+> Wu Y., Rouillard A. P., Kouloumvakos A., Vainio R., Afanasiev A. N., et al. "On the Origin of Hard X-Ray Emissions from the Behind-the-limb Flare on 2014 September 1", [The Astrophysical Journal (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...909..163W). 
 
 ### 2020
+> Rouillard A. P., Pinto R. F., Vourlidas A., De Groof A., Thompson W. T., et al. "Models and data analysis tools for the Solar Orbiter mission", [Astronomy and Astrophysics (2020)](https://ui.adsabs.harvard.edu/abs/2020A&A...642A...2R). 
 
-> Rouillard, A.P.,  Pinto, R.F., Vourlidas, A., De Groof, A., Thompson, W.T., Bemporad, A., Dolei, S. ..., **Kouloumvakos, A.**, et al.: 2020, ``Models and data analysis tools for the Solar Orbiter mission'', [Astronomy and Astrophysics, 642, A2](https://www.aanda.org/articles/aa/full_html/2020/10/aa35305-19/aa35305-19.html).
+> Poedts S., Lani A., Scolini C., Verbeke C., Wijsen N., et al. "EUropean Heliospheric FORecasting Information Asset 2.0", [Journal of Space Weather and Space Climate (2020)](https://ui.adsabs.harvard.edu/abs/2020JSWSC..10...57P). 
 
-> Stefaan, P.,  Lani, A., Scolini, C., Verbeke, C., Wijsen, N., Lapenta, G., Laperre, B. ..., **Kouloumvakos, A.**, et al.: 2020, ``EUropean Heliospheric FORecasting Information Asset 2.0'', [J. Space Weather Space Clim., 10, 57](https://www.swsc-journal.org/articles/swsc/full_html/2020/01/swsc200073/swsc200073.html).
+> Kouloumvakos A., Vourlidas A., Rouillard A. P., Roelof E. C., Leske R., et al. "The Solar Origin of Particle Events Measured by Parker Solar Probe", [The Astrophysical Journal (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJ...899..107K). 
 
-> **Kouloumvakos, A.**, Vourlidas, A., Rouillard, A.P., Roelof, E.C., Leske, R., Pinto, R., and Poirier, N.: 2020, ``The solar origin of particle events measured by Parker Solar Probe'', [The Astrophysical Journal, 899, 107K](https://iopscience.iop.org/article/10.3847/1538-4357/aba5a1).
+> Lavraud B., Fargette N., Réville V., Szabo A., Huang J., et al. "The Heliospheric Current Sheet and Plasma Sheet during Parker Solar Probe's First Orbit", [The Astrophysical Journal (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJ...894L..19L). 
 
-> Lavraud B., Fargette N., Reville V., Szabo A., Huang J., Rouillard A. P., Viall N., ... **Kouloumvakos, A.**, et al.: 2020, ``The Heliospheric Current Sheet and Plasma Sheet during Parker Solar Probe's First Orbit'', [The Astrophysical Journal, 894, L19](https://iopscience.iop.org/article/10.3847/2041-8213/ab8d2d).
+> Kouloumvakos A., Rouillard A. P., Share G. H., Plotnikov I., Murphy R., et al. "Evidence for a Coronal Shock Wave Origin for Relativistic Protons Producing Solar Gamma-Rays and Observed by Neutron Monitors at Earth", [The Astrophysical Journal (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJ...893...76K). 
 
-> Griton L., Pinto R.F., Poirier N., **Kouloumvakos, A.**, Lavarra M., Rouillard A.P.: 2020, ``Coronal Bright Points as Possible Sources of Density Variations in the Solar Corona '', [The Astrophysical Journal, 893, 64G](https://iopscience.iop.org/article/10.3847/1538-4357/ab7b76).
+> Griton L., Pinto R. F., Poirier N., Kouloumvakos A., Lavarra M., et al. "Coronal Bright Points as Possible Sources of Density Variations in the Solar Corona", [The Astrophysical Journal (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJ...893...64G). 
 
-> **Kouloumvakos, A.**, Rouillard, A.P., Share G.H., Plotnikov I., Murphy R., Papaioannou A., and Wu Y.: 2020, ``Evidence for a Coronal Shock Wave Origin for Relativistic Protons Producing Solar Gamma-Rays and Observed by Neutron Monitors at Earth'', [The Astrophysical Journal, 893, 76K](https://iopscience.iop.org/article/10.3847/1538-4357/ab8227).
+> Rouillard A. P., Poirier N., Lavarra M., Bourdelle A., Dalmasse K., et al. "Modeling the Early Evolution of a Slow Coronal Mass Ejection Imaged by the Parker Solar Probe", [The Astrophysical Journal Supplement Series (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJS..246...72R). 
 
-> Poirier, N., **Kouloumvakos**, A., Rouillard, A.P., Pinto, R.F., Vourlidas, A., Stenborg, G., Valette, E., Howard, R.A., et al.: 2020, ``Detailed imaging of coronal rays with Parker Solar Probe'', [The Astrophysical Journal, 246, 60P](https://iopscience.iop.org/article/10.3847/1538-4365/ab6324).
+> Korreck K. E., Szabo A., Nieves Chinchilla T., Lavraud B., Luhmann J., et al. "Source and Propagation of a Streamer Blowout Coronal Mass Ejection Observed by the Parker Solar Probe", [The Astrophysical Journal Supplement Series (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJS..246...69K). 
 
-> Rouillard, A.P., **Kouloumvakos, A.**, Vourlidas, A., Kasper, J., Bale, S., Raouafi, N.-E., Lavraud, B., Howard, R.A., et al.: 2020, ``Relating streamer flows to density and magnetic structures at Parker Solar Probe'', [The Astrophysical Journal, 246, 37R](https://iopscience.iop.org/article/10.3847/1538-4365/ab579a).
+> Poirier N., Kouloumvakos A., Rouillard A. P., Pinto R. F., Vourlidas A., et al. "Detailed Imaging of Coronal Rays with the Parker Solar Probe", [The Astrophysical Journal Supplement Series (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJS..246...60P). 
 
-> Rouillard, A.P., Poirier, N., Lavarra, M., Bourdelle, A., Dalmasse, K., **Kouloumvakos, A.**, Vourlidas, A., Kunkel, V., Hess, P., Howard, R.A., et al.: 2020, ``Modelling the early evolution of a slow Coronal Mass Ejection imaged by Parker Solar Probe'', [The Astrophysical Journal, 246, 72R](https://iopscience.iop.org/article/10.3847/1538-4365/ab6610).
+> Rouillard A. P., Kouloumvakos A., Vourlidas A., Kasper J., Bale S., et al. "Relating Streamer Flows to Density and Magnetic Structures at the Parker Solar Probe", [The Astrophysical Journal Supplement Series (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJS..246...37R). 
 
-> Hess, P., Rouillard, A., **Kouloumvakos, A.**, Liewer, P.C., Zhang, J., Dhakal, S., Stenborg, G., Colaninno, R.C., and Howard, R.A.: 2020, ``WISPR Imaging of a Pristine CME'', [The Astrophysical Journal, 246, 25H](https://iopscience.iop.org/article/10.3847/1538-4365/ab4ff0).
+> Giacalone J., Mitchell D. G., Allen R. C., Hill M. E., McNutt R. L., et al. "Solar Energetic Particles Produced by a Slow Coronal Mass Ejection at ∼0.25 au", [The Astrophysical Journal Supplement Series (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJS..246...29G). 
 
-> Giacalone, J., Mitchell, D.G., Allen, R.C., Hill, M.E., McNutt Jr., R.L., Szalay, J.R., Desai, M.I., Rouillard, A.P., **Kouloumvakos, A.**, et al.: 2020, ``Solar Energetic Particles Produced by a Slow Coronal Mass Ejection at ~0.25AU'', [The Astrophysical Journal, 246, 29G](https://iopscience.iop.org/article/10.3847/1538-4365/ab5221).
-
-> Korreck, K.E., Szabo, A., Chinchilla, T.N., Lavraud, B., Luhman, J., Case, A.W., Niembro, T.,  Higginson, A., Alzate, N., ... **Kouloumvakos, A.**, et al.: 2020, ``Early Evolution and Propagation of a Streamer Blowout Coronal Mass Ejections within 54.7 solar radii of the Sun Observed by Parker Solar Probe'', [The Astrophysical Journal, 246, 69K](https://iopscience.iop.org/article/10.3847/1538-4365/ab6ff9).
+> Hess P., Rouillard A. P., Kouloumvakos A., Liewer P. C., Zhang J., et al. "WISPR Imaging of a Pristine CME", [The Astrophysical Journal Supplement Series (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJS..246...25H). 
 
 ### 2019
 
-> Howard, R.A., Vourlidas, A., Bothmer, V., Colaninno, R.C., DeForest, C.E., Gallagher, B., Hall, J.R., Hess, P., Higginson, A.K., Korendyke, C.M., **Kouloumvakos, A.**, et al.: 2019, ``Near-Sun observations of an F-corona decrease and K-corona fine structure'', [Nature 576, 232–236](https://www.nature.com/articles/s41586-019-1807-x).
+> Howard R. A., Vourlidas A., Bothmer V., Colaninno R. C., DeForest C. E., et al. "Near-Sun observations of an F-corona decrease and K-corona fine structure", [Nature (2019)](https://ui.adsabs.harvard.edu/abs/2019Natur.576..232H). 
 
-> **Kouloumvakos, A.**, Rouillard, A.P., Wu, Y., Vainio, R., Vourlidas, A., Plotnikov, I., Afanasiev, A., and Onel, H.: 2019, ``Connecting the Properties of Coronal Shock Waves with Those of Solar Energetic Particles'', [The Astrophysical Journal, 876, 80](https://iopscience.iop.org/article/10.3847/1538-4357/ab15d7).
+> Anastasiadis A., Lario D., Papaioannou A., Kouloumvakos A., Vourlidas A. "Solar energetic particles in the inner heliosphere: status and open questions", [Philosophical Transactions of the Royal Society of London Series A (2019)](https://ui.adsabs.harvard.edu/abs/2019RSPTA.37780100A). 
 
-> Vlahos, L., Anastasiadis, A., Papaioannou, A., **Kouloumvakos, A.**, and Isliker, H.: 2019, ``Sources of solar energetic particles'', [Philosophical Transactions of the Royal Society of London Series A, 377, 20180095](https://royalsocietypublishing.org/doi/10.1098/rsta.2018.0095).
+> Vlahos L., Anastasiadis A., Papaioannou A., Kouloumvakos A., Isliker H. "Sources of solar energetic particles", [Philosophical Transactions of the Royal Society of London Series A (2019)](https://ui.adsabs.harvard.edu/abs/2019RSPTA.37780095V). 
 
-> Anastasiadis, A., Lario, D., Papaioannou, A., **Kouloumvakos, A.**, and Vourlidas, A.: 2019, ``Solar energetic particles in the inner heliosphere: status and open questions'', [Philosophical Transactions of the Royal Society of London Series A, 377, 20180100](https://royalsocietypublishing.org/doi/10.1098/rsta.2018.0100).
+> Kouloumvakos A., Rouillard A. P., Wu Y., Vainio R., Vourlidas A., et al. "Connecting the Properties of Coronal Shock Waves with Those of Solar Energetic Particles", [The Astrophysical Journal (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJ...876...80K). 
 
 ### 2018 - 2012
 
-> Papaioannou, A., Anastasiadis, A., **Kouloumvakos, A.**, Paassilta, M., Vainio, R., Valtonen, E., Belov, A., Eroshenko, E., Abunina, M., and Abunin, A.: 2018, ``Nowcasting Solar Energetic Particle Events Using Principal Component Analysis'', [Solar Physics, 293, 100](https://link.springer.com/article/10.1007\%2Fs11207-018-1320-7).
+> Papaioannou A., Anastasiadis A., Kouloumvakos A., Paassilta M., Vainio R., et al. "Nowcasting Solar Energetic Particle Events Using Principal Component Analysis", [Solar Physics (2018)](https://ui.adsabs.harvard.edu/abs/2018SoPh..293..100P). 
 
-> Anastasiadis, A., Papaioannou, A., Sandberg, I., Georgoulis, M., Tziotziou, K., **Kouloumvakos, A.**, and Jiggens, P.: 2017, ``Predicting Flares and Solar Energetic Particle Events: The FORSPEF Tool'', [Solar Physics, 292, 134](https://link.springer.com/article/10.1007\%2Fs11207-017-1163-7).
+> Anastasiadis A., Papaioannou A., Sandberg I., Georgoulis M., Tziotziou K., et al. "Predicting Flares and Solar Energetic Particle Events: The FORSPEF Tool", [Solar Physics (2017)](https://ui.adsabs.harvard.edu/abs/2017SoPh..292..134A). 
 
-> **Kouloumvakos, A.**, Patsourakos, S., Nindos, A., Vourlidas, A., Anastasiadis, A., Hillaris, A., and Sandberg, I.: 2016, ``Multi-viewpoint Observations of a Widely distributed Solar Energetic Particle Event: The Role of EUV Waves and White-light Shock Signatures'', [The Astrophysical Journal, 821, 31](https://iopscience.iop.org/article/10.3847/0004-637X/821/1/31).
+> Kouloumvakos A. "Study of shock waves in the solar corona and interplanetary space", [Ph.D. Thesis (2017)](https://ui.adsabs.harvard.edu/abs/2017PhDT.......456K). 
 
-> Papaioannou, A., Sandberg, I., Anastasiadis, A., **Kouloumvakos, A.**, Georgoulis, M.K., Tziotziou, K., Tsiropoula, G., Jiggens, P., and Hilgers, A.: 2016, ``Solar flares, coronal mass ejections and solar energetic particle event characteristics'', [Journal of Space Weather and Space Climate, 6, A42](https://www.swsc-journal.org/articles/swsc/abs/2016/01/swsc150076/swsc150076.html).
+> Papaioannou A., Sandberg I., Anastasiadis A., Kouloumvakos A., Georgoulis M. K., et al. "Solar flares, coronal mass ejections and solar energetic particle event characteristics", [Journal of Space Weather and Space Climate (2016)](https://ui.adsabs.harvard.edu/abs/2016JSWSC...6A..42P). 
 
-> Patsourakos, S., Georgoulis, M.K., Vourlidas, A., Nindos, A., Sarris, T., Anagnostopoulos, G., Anastasiadis, A., ... **Kouloumvakos, A.**, et al.: 2016, \textit{``The Major Geoeffective Solar Eruptions of 2012 March 7: Comprehensive Sun-to-Earth Analysis''}, [The Astrophysical Journal, 817, 14](https://iopscience.iop.org/article/10.3847/0004-637X/817/1/14).
+> Kouloumvakos A., Patsourakos S., Nindos A., Vourlidas A., Anastasiadis A., et al. "Multi-viewpoint Observations of a Widely distributed Solar Energetic Particle Event: The Role of EUV Waves and White-light Shock Signatures", [The Astrophysical Journal (2016)](https://ui.adsabs.harvard.edu/abs/2016ApJ...821...31K). 
 
-> **Kouloumvakos, A.**, Nindos, A., Valtonen, E., Alissandrakis, C.E., Malandraki, O., Tsitsipis, P., Kontogeorgos, A., Moussas, X., and Hillaris, A.: 2015, ``Properties of solar energetic particle events inferred from their associated radio emission'', [Astronomy and Astrophysics, 580, A80](https://www.aanda.org/articles/aa/abs/2015/08/aa24397-14/aa24397-14.html).
+> Patsourakos S., Georgoulis M. K., Vourlidas A., Nindos A., Sarris T., et al. "The Major Geoeffective Solar Eruptions of 2012 March 7: Comprehensive Sun-to-Earth Analysis", [The Astrophysical Journal (2016)](https://ui.adsabs.harvard.edu/abs/2016ApJ...817...14P). 
 
-> **Kouloumvakos, A.**, Patsourakos, S., Hillaris, A., Vourlidas, A., Preka-Papadema, P., Moussas, X., Caroubalos, C., Tsitsipis, P., and Kontogeorgos, A.: 2014, ``CME Expansion as the Driver of Metric Type II Shock Emission as Revealed by Self-consistent Analysis of High-Cadence EUV Images and Radio Spectrograms'', [Solar Physics, 289, 2123](https://link.springer.com/article/10.1007\%2Fs11207-013-0460-z).
+> Kouloumvakos A., Nindos A., Valtonen E., Alissandrakis C. E., Malandraki O., et al. "Properties of solar energetic particle events inferred from their associated radio emission", [Astronomy and Astrophysics (2015)](https://ui.adsabs.harvard.edu/abs/2015A&A...580A..80K). 
 
->  Papaioannou, A., Malandraki, O.E., Dresing, N., Heber, B., Klein, K.-L., Vainio, R., Rodriguez-Gasen, ..., **Kouloumvakos, A.** et al.: 2014, ``SEPServer catalogues of solar energetic particle events at 1 AU based on STEREO recordings: 2007-2012'', [Astronomy and Astrophysics, 569, A96](https://www.aanda.org/articles/aa/abs/2014/09/aa23336-13/aa23336-13.html).
+> Papaioannou A., Malandraki O. E., Dresing N., Heber B., Klein K.-L., et al. "SEPServer catalogues of solar energetic particle events at 1 AU based on STEREO recordings: 2007-2012", [Astronomy and Astrophysics (2014)](https://ui.adsabs.harvard.edu/abs/2014A&A...569A..96P). 
 
-> Miteva R., Klein K.-L., Samwel S.~W., Nindos A., **Kouloumvakos A.**, Reid H.: 2013, ``Radio Signatures of Solar Energetic Particles During the 23rd Solar Cycle'', [Central European Astrophysical Bulletin, 37, 541](https://arxiv.org/abs/1402.6442).
+> Kouloumvakos A., Patsourakos S., Hillaris A., Vourlidas A., Preka-Papadema P., et al. "CME Expansion as the Driver of Metric Type II Shock Emission as Revealed by Self-consistent Analysis of High-Cadence EUV Images and Radio Spectrograms", [Solar Physics (2014)](https://ui.adsabs.harvard.edu/abs/2014SoPh..289.2123K). 
 
-> Vainio, R., Valtonen, E., Heber, B., Malandraki, O.E., Papaioannou, A., Klein, K.-L., Afanasiev, A., Agueda, N., Aurass, H., ..., **Kouloumvakos, A.** et al.: 2013, ``The first SEPServer event catalogue ~68-MeV solar proton events observed at 1 AU in 1996-2010'', [Journal of Space Weather and Space Climate, 3, A12](https://www.swsc-journal.org/articles/swsc/abs/2013/01/swsc120054/swsc120054.html).
+> Vainio R., Valtonen E., Heber B., Malandraki O. E., Papaioannou A., et al. "The first SEPServer event catalogue ~68-MeV solar proton events observed at 1 AU in 1996-2010", [Journal of Space Weather and Space Climate (2013)](https://ui.adsabs.harvard.edu/abs/2013JSWSC...3A..12V). 
 
-> Malandraki, O.E., Agueda, N., Papaioannou, A., Klein, K.-L., Valtonen, E., Heber, B., Droge, W., Aurass, H., Nindos, A., Vilmer, N., Sanahuja, B., **Kouloumvakos, A.**, et al.: 2012, ``Scientific Analysis within SEPServer - New Perspectives in Solar Energetic Particle Research: The Case Study of the 13 July 2005 Event'', [Solar Physics, 281, 333](https://link.springer.com/article/10.1007\%2Fs11207-012-0164-9).
+> Malandraki O. E., Agueda N., Papaioannou A., Klein K.-L., Valtonen E., et al. "Scientific Analysis within SEPServer - New Perspectives in Solar Energetic Particle Research: The Case Study of the 13 July 2005 Event", [Solar Physics (2012)](https://ui.adsabs.harvard.edu/abs/2012SoPh..281..333M). 
