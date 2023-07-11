@@ -12,16 +12,16 @@ toc_icon: "list"  # corresponding Font Awesome icon name (without fa prefix)
 
 {: .notice--success}
 **Overview:** \
-Total number of publications in refereed journals: 47 \
+Total number of publications in refereed journals: 50 \
  -- As a first author: 10 \
- -- Among the first five authors: 28 \
+ -- Among the first five authors: 30 \
  \
 **Highlights:** \
  -- Top cited as 1st author: Kouloumvakos et al. (2019), [The Astrophysical Journal, 876, 80](https://iopscience.iop.org/article/10.3847/1538-4357/ab15d7) \
  -- Top cited: Papaioannou et al. (2016), [JSWSC, 6, A42](https://www.swsc-journal.org/articles/swsc/abs/2016/01/swsc150076/swsc150076.html) \
  -- Top impact: Howard et al. (2019), [Nature 576, 232–236](https://www.nature.com/articles/s41586-019-1807-x) \
  \
-H-Index: 19 / Total Citations: 992 
+H-Index: 20 / Total Citations: 1,051 (from NASA/ADS) 
  \
 Other sources: [![NASA/ADS](https://ui.adsabs.harvard.edu/styles/img/transparent_logo.svg){:height="20px" width="20px"}](https://ui.adsabs.harvard.edu/public-libraries/40cJM25eRKu15EN-KcyaNw) [![ORCID](https://orcid.org/assets/vectors/orcid.logo.icon.svg){:height="20px" width="20px"}](https://orcid.org/0000-0001-6589-4509)
 
@@ -30,6 +30,15 @@ Other sources: [![NASA/ADS](https://ui.adsabs.harvard.edu/styles/img/transparent
 ## Publications in Refereed Journals
 
 ### 2023
+
+> Jebaraj I. C., Kouloumvakos A., Dresing N., Warmuth A., Wijsen N., et al. "Multiple injections of energetic electrons associated with the flare and CME event on 9 October 2021", [Astronomy and Astrophysics (2023)](https://ui.adsabs.harvard.edu/abs/2023A&A...675A..27J). 
+
+> Wijsen N., Lario D., Sánchez-Cano B., Jebaraj I. C., Dresing N., et al. "The Effect of the Ambient Solar Wind Medium on a CME-driven Shock and the Associated Gradual Solar Energetic Particle Event", [The Astrophysical Journal (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJ...950..172W). 
+
+> Rodríguez-García L., Balmaceda L. A., Gómez-Herrero R., Kouloumvakos A., Dresing N., et al. "Solar activity relations in energetic electron events measured by the MESSENGER mission", [Astronomy and Astrophysics (2023)](https://ui.adsabs.harvard.edu/abs/2023A&A...674A.145R). 
+
+> Dresing N., Rodríguez-García L., Jebaraj I. C., Warmuth A., Wallace S., et al. "The 17 April 2021 widespread solar energetic particle event", [Astronomy and Astrophysics (2023)](https://ui.adsabs.harvard.edu/abs/2023A&A...674A.105D). 
+
 > Mason G. M., Ho G. C., Allen R. C., Kouloumvakos A., Wimmer-Schweingruber R. F., et al. "Quiet-time suprathermal ions in the inner heliosphere during the rising phase of solar cycle 25", [Astronomy and Astrophysics (2023)](https://ui.adsabs.harvard.edu/abs/2023A&A...673L..12M). 
 
 > Jarry M., Rouillard A. P., Plotnikov I., Kouloumvakos A., Warmuth A. "Parametric study of the kinematic evolution of coronal mass ejection shock waves and their relation to flaring activity", [Astronomy and Astrophysics (2023)](https://ui.adsabs.harvard.edu/abs/2023A&A...672A.127J). 
@@ -113,8 +122,6 @@ Other sources: [![NASA/ADS](https://ui.adsabs.harvard.edu/styles/img/transparent
 > Papaioannou A., Anastasiadis A., Kouloumvakos A., Paassilta M., Vainio R., et al. "Nowcasting Solar Energetic Particle Events Using Principal Component Analysis", [Solar Physics (2018)](https://ui.adsabs.harvard.edu/abs/2018SoPh..293..100P). 
 
 > Anastasiadis A., Papaioannou A., Sandberg I., Georgoulis M., Tziotziou K., et al. "Predicting Flares and Solar Energetic Particle Events: The FORSPEF Tool", [Solar Physics (2017)](https://ui.adsabs.harvard.edu/abs/2017SoPh..292..134A). 
-
-> Kouloumvakos A. "Study of shock waves in the solar corona and interplanetary space", [Ph.D. Thesis (2017)](https://ui.adsabs.harvard.edu/abs/2017PhDT.......456K). 
 
 > Papaioannou A., Sandberg I., Anastasiadis A., Kouloumvakos A., Georgoulis M. K., et al. "Solar flares, coronal mass ejections and solar energetic particle event characteristics", [Journal of Space Weather and Space Climate (2016)](https://ui.adsabs.harvard.edu/abs/2016JSWSC...6A..42P). 
 

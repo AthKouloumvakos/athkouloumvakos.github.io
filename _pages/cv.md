@@ -9,51 +9,62 @@ toc_sticky: true
 toc_icon: "list"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-## Education
+Bellow you can find a brief curriculum vitae. For a more extended version see the PDF file [here](https://www.akouloumvakos.spaceweather.gr/assets/docs/Kouloumvakos_CV_full.pdf).
 
-> **Ph.D. in Physics**,  (Apr. 2013 - Jan. 2018, Ioannina, Greece) \
-University of Ioannina, Greece \
+## Education / Positions
+
+> The Johns Hopkins University - Applied Physics Laboratory, Maryland, USA \
+**Senior Professional Staff I**, (Jun. 2023 - now) \
+**Post Doctoral Researcher**, (Mar. 2022 - Jun. 2023)
+
+> Institut de Recherche en Astrophysique et Planétologie (IRAP), Toulouse, France \
+**Post Doctoral Researcher**, (Feb. 2018 - Feb. 2022)
+
+> University of Ioannina, Ioannina, Greece \
+**Ph.D. in Physics**, (Apr. 2013 - Jan. 2018) \
 _Dissertation_: “Study of Shock Waves in the Solar Corona and Interplanetary Space”. \
 _Supervisor_: A. Nindos, Associate Professor
 
-> **M.Sc. in Physics**, (Oct. 2010 - Feb. 2013, Athens, Greece) \
-National and Kapodistrian University of Athens, Greece \
+> National and Kapodistrian University of Athens, Athens, Greece \
+**M.Sc. in Physics**, (Oct. 2010 - Feb. 2013) \
 _Specialization_: “Astrophysics, Astronomy & Mechanics” \
 _Thesis_: “Study of coronal Shock Waves evolution from combined recordings of ARTEMIS-IV radiospectograph and observations of STEREO mission.” \
 _Supervisor_: P. Preka, Assistant Professor
 
-> **Bachelor in Physics**  (Sep. 2004 - March 2010, Patra, Greece) \
-University of Patras, Greece \
-Thesis: “Photometric study, of Solar Sunspots during the 23rd solar cycle from So.H.O. images” \
-Supervisors: X. Moussas, Emeritus Professor and V. Zafeiropoulos, Emeritus Professor.
+> University of Patras, Patra, Greece \
+**Bachelor in Physics**  (Sep. 2004 - March 2010) \
+_Thesis_: “Photometric study, of Solar Sunspots during the 23rd solar cycle from So.H.O. images” \
+_Supervisor_: X. Moussas, Emeritus Professor and V. Zafeiropoulos, Emeritus Professor
 
 
 ## Research Experience
 
-> **Post Doctoral Researcher** (March 2022 - now) \
-The Johns Hopkins University Applied Physics Laboratory, Maryland, USA \
-Scientist for the Suprathermal Ion Spectrograph (SIS) sensor on Solar Orbiter.
+> The Johns Hopkins University - Applied Physics Laboratory, Maryland, USA \
+**Research scientist** for the IS⊙IS Energetic Particle Instrument (EPI) - Lo instrument onboard Parker Solar Probe (Apr. 2023 - now) \
+**Research scientist** for the Suprathermal Ion Spectrograph (SIS) instrument onboard Solar Orbiter (Mar. 2022 - now) 
 
-> **Post Doctoral Researcher** (Feb. 2018 - Feb. 2022) \
-Institut de Recherche en Astrophysique et Planétologie, Toulouse, France \
-Université Toulouse III - Paul Sabatier, CNRS \
-Research Projects: [“COROSHOCK”](http://storms-service.irap.omp.eu/projects/coroshock), [“EUHFORIA 2.0”](https://euhforia.com/euhforia-2-0/), [“SERPENTINE”](https://serpentine-h2020.eu/) \
-Advisor: Dr. A. Rouillard, Permanent Researcher, CNRS, IRAP
+> Institut de Recherche en Astrophysique et Planétologie, Toulouse, France \
+**Post Doctoral Researcher** (Feb. 2018 - Feb. 2022) \
+_Research Projects_: [“COROSHOCK”](http://storms-service.irap.omp.eu/projects/coroshock), [“EUHFORIA 2.0”](https://euhforia.com/euhforia-2-0/), [“SERPENTINE”](https://serpentine-h2020.eu/) \
+_Advisor_: Dr. A. Rouillard, Permanent Researcher, CNRS, IRAP
 
-> **Research Assistant** (Aug. 2015 - Jan. 2016) \
-National Observatory of Athens, Athens, Greece \
-Research Project: [“FORecasting Solar Particle Events and Flares (FORSPEF)”](http://tromos.space.noa.gr/forspef/main/) \
-Advisor: Dr. Anastasios Anastasiadis, Research Director, IAASARS of the National Observatory of Athens.
+> National Observatory of Athens, Athens, Greece \
+**Research Assistant** (Aug. 2015 - Jan. 2016) \
+_Research Project_: [“FORecasting Solar Particle Events and Flares (FORSPEF)”](http://tromos.space.noa.gr/forspef/main/) \
+_Advisor_: Dr. Anastasios Anastasiadis, Research Director, IAASARS of the National Observatory of Athens.
 
-> **Research Assistant** (Jul. 2013 - Nov. 2015) \
-University of Ioannina, Ioannina, Greece \
-Research Project: [“Hellenic National Space Weather Research Network”](http://excellence.minedu.gov.gr/thales/en/thalesprojects/377274) \
-Advisors: A. Nindos, Associate Professor, UOI; S. Patsourakos, Assistant Professor, UOI
+> University of Ioannina, Ioannina, Greece \
+**Research Assistant** (Jul. 2013 - Nov. 2015) \
+_Research Project_: [“Hellenic National Space Weather Research Network”](http://excellence.minedu.gov.gr/thales/en/thalesprojects/377274) \
+_Advisors_: A. Nindos, Associate Professor, UOI; S. Patsourakos, Assistant Professor, UOI \
+**Graduate Researcher** (Febr. 2011 - Jun. 2013) \
+_Research Project_: [“SEPServer: Data Services and Analysis Tools for Solar Energetic Particle Events and Related Electromagnetic Emissions”](http://server.sepserver.eu/) \
+_Advisor_: A. Nindos, Associate Professor, University of Ioannina.
 
-> **Graduate Researcher** (Febr. 2011 - Jun. 2013) \
-University of Ioannina, Ioannina, Greece \
-Research Project: [“SEPServer: Data Services and Analysis Tools for Solar Energetic Particle Events and Related Electromagnetic Emissions”](http://server.sepserver.eu/) \
-Advisor: A. Nindos, Associate Professor, University of Ioannina.
+
+## Publications
+
+I have co-authored 45+ publications in peer-reviewed journals, with a total number of citations 1000+ and an H-Index 19. I have 10 publications as a first author, with total number of citations 200+, five of which in The Astrophysical Journal with impact factor 5.75 and three in Astronoy & Astrophysics with an impact fac- tor 6.24. I have co-authored one publication in Nature with an impact factor 69.5. More details in my [publications page](https://www.akouloumvakos.spaceweather.gr/publications/) or in my [ADS library](https://ui.adsabs.harvard.edu/public-libraries/40cJM25eRKu15EN-KcyaNw).
 
 
 ## Other Work Experience
@@ -74,6 +85,7 @@ Advisor: A. Nindos, Associate Professor, University of Ioannina.
 - The Astrophysical Journal ([ApJ](https://iopscience.iop.org/journal/0004-637X))
 - Astronomy and Astrophysics ([A&A](https://www.aanda.org))
 - Solar Physics
+- Journal of Space Weather and Space Climate ([JSWSC](https://www.swsc-journal.org))
 
 > **Producer** of [“PyThea”](https://github.com/AthKouloumvakos/PyThea) an open-source software package to perform coronal mass ejection (CME) and shock wave 3D reconstruction using multi-viewpoint remote-sensing observations.
 
