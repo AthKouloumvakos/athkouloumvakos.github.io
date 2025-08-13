@@ -12,7 +12,22 @@ toc_icon: "list"  # corresponding Font Awesome icon name (without fa prefix)
 
 # Awarded Research Projects
 
-## PyThea
+## NASA’s Grant LWS-2024: Connecting the Evolution of Shock Wave Characteristics with Properties of Solar Energetic Particles in the Inner Heliosphere.
+
+{: .text-justify}
+In this project we investigate how the spatial and temporal characteristics of CMEs and shocks connect with the observed SEP properties. Understanding how SEPs are accelerated and what mechanisms are responsible for transporting them into wide locations in the heliosphere are key science objectives of the heliophysics community and of the SO and PSP missions. These objectives are challenging due to the complexity of the physical processes involved. Recent data-driven modeling efforts have been useful for inferring the characteristics of CMEs and shocks in the corona and improved measurements have revealed significant associations between transient and SEP properties. However, these efforts have focused only on the connection between the most intense phase of SEP events and the shock evolution, leaving unexplored time dependences, SEP composition and energy spectrum, and associations from measurements close to the Sun that we eplore in this project. This project has recieved a NASA Grant in Research Opportunities in Space and Earth Science (ROSES)–2024 in the Living with a Star Science (NNH24ZDA001N-LWS) program element.
+
+**Role**: Principal Investigator, **Duration**: 4 years (2025 - 2029)
+
+
+## NASA’s Grant HGIO-2023: Investigation of high-energy solar energetic particle events with extreme electron-to-proton ratios.
+
+{: .text-justify}
+The overarching science goal of this project is to achieve a better understanding on the physical conditions under which high-energy electrons are preferentially accelerated over high-energy protons, and hence, to identify the primary cause for the extreme e/p ratios observed in some solar events. Little attention has been given to these intriguing cases and their specific characteristics. A comprehensive study of these “extreme” events can provide constraints on the underlying acceleration mechanisms and their efficiency. A comprehensive study of these “extreme” events can provide constraints on the underlying acceleration mechanisms and their efficiency. This project has recieved a NASA Grant in Research Opportunities in Space and Earth Science (ROSES)–2023 in the Heliophysics Guest Investigators - Open (NNH23ZDA001N-HGIO) program element.
+
+**Role**: Principal Investigator, **Duration**: 3 years (2024 - 2026)
+
+## NASA’s Grant HTM-2022: PyThea
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/pythea_icon_small.png){: .align-left} 
 
